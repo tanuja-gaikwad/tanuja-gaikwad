@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Web Development & QA Testing Projects**
 - 🤔 I’m looking for help with **Real-time Industry Projects & Test Automation Tools**
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, SQL, and Manual Testing**
-- 📫 How to reach me: **tanujagaikwad@example.com | LinkedIn**
+- 📫 How to reach me: **https://www.linkedin.com/in/tanuja-gaikwad | LinkedIn**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I love finding bugs more than writing code 😄**
 
@@ -20,8 +20,4 @@
 ### ✍️ MY Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tanuja-gaikwad) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
